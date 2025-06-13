@@ -22,7 +22,8 @@ This series covers the full stack of applied AI:
 
 - Machine Learning (ML) – classification, regression, clustering, recommendation  
 - Deep Learning (DL) – neural networks, CNNs, RNNs, LSTMs  
-- Natural Language Processing (NLP) – text classification, sentiment analysis, summarization  
+- Natural Language Processing (NLP) – text classification, sentiment analysis, summarization
+- Computer Vision (CV) – image processing, object detection, real-time tracking  
 - Generative AI – GPT-based tools, text-to-image, content generation  
 - Applied AI – chatbots, decision agents, automation, real-life use cases
 
