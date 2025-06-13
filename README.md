@@ -52,5 +52,3 @@ Check back regularly or follow the repo to track new additions.
 
 All projects use Python, and assume basic familiarity with its syntax and structure.
 
-نسخ
-تحرير
