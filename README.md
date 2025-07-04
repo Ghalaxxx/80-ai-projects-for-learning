@@ -8,13 +8,7 @@ Welcome to a curated, hands-on collection of 80 AI projects, designed to take le
 This series is built to share structured AI knowledge through practical implementation.  
 Each project focuses on clarity, relevance, and execution — so anyone exploring this repo can build confidence and skill in applied artificial intelligence.
 
-## دعم اللغة العربية
 
-جميع المشاريع في هذه السلسلة تحتوي على ملف شرح باللغة الإنجليزية،  
-وسيتم أيضًا توفير ملف شرح باللغة العربية باسم `README_AR.md` داخل كل مشروع.
-
-الهدف هو دعم المهتمين بتعلم الذكاء الاصطناعي ممن يشعرون بالضياع بسبب حاجز اللغة.  
-أشارك هذه المشاريع لمساعدة كل من يبحث عن مصادر واضحة، مفهومة، وعملية — بلغتنا الأم.
 
 ## What You'll Learn
 
